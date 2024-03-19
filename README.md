@@ -12,12 +12,11 @@ I aimed for a modern and simple design to ensure clarity and easy navigation..
 
 ### [🔗 Live Demo ](https://sunny-nine.vercel.app/)
 
-### Homepage
-![project-sunny](https://github.com/Jirilinduska/sunny/assets/120704718/67780a21-295e-4f88-a477-e34bff04aebc)
+### Home page
+![project-sunny-1](https://github.com/Jirilinduska/sunny/assets/120704718/e7fe06e6-0c93-4c7e-946d-8b0ce9b0b521)
+
+### Search city input 
+![project-sunny-2](https://github.com/Jirilinduska/sunny/assets/120704718/7ef15da1-439f-4c50-9e20-8fd6ba0dd24b)
 
 ### Weather page
-![project-sunny-2](https://github.com/Jirilinduska/sunny/assets/120704718/5edcbd2d-5c9d-4ca0-878b-6109b6e324f0)
-
-### Error page
-![project-sunny-3](https://github.com/Jirilinduska/sunny/assets/120704718/828179e5-dbaa-46b3-b813-f8385fa5610d)
-
+![project-sunny-3](https://github.com/Jirilinduska/sunny/assets/120704718/2958d855-6812-48e8-9c6e-23bda33d70cc)
