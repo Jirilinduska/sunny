@@ -1,0 +1,42 @@
+.error {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    background-color: var(--color-yellow);
+}
+
+.error h2 {
+    font-size: 3rem;
+}
+
+.error h3 {
+    font-size: 1.5rem;
+}
+
+.error a {
+    text-align: center;
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+
+.error a:hover {
+    color: var(--color-white);
+    background-color: var(--color-black);
+}
+
+
+@media (max-width: 720px) {
+
+    .error h2 {
+        font-size: 1.5rem;
+    }
+
+    .error h3 {
+        font-size: 1rem;
+        text-align: center;
+    }
+}

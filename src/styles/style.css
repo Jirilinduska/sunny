@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+:root {
+    --color-black: #000;
+    --color-white: #fff;
+    --color-yellow: #FFD300;
+    --color-yellow-hover: #dfbf07;
+    --color-error: red;
+    --trs: .5s;
+}
+
+.btns {
+    display: block;
+    text-decoration: none;
+    font-size: 1.25rem;
+    background-color: var(--color-yellow);
+    color: var(--color-black);
+    height: 50px;
+    line-height: 50px;
+    width: 250px;
+    transition: var(--trs);
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.btns:hover {
+    background-color: var(--color-yellow-hover);
+  }
+
+
+
+  @media (max-width: 720px) {
+    
+    .btns {
+        width: 150px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 1rem;
+    }
+
+  }

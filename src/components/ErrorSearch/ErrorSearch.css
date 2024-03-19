@@ -1,0 +1,30 @@
+.error-search {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.error-search p {
+    font-size: 1.5rem;
+    color: var(--color-white);
+    text-align: center;
+}
+
+.error-search a {
+    text-align: center;
+}
+
+@media (max-width: 920px) {
+
+    .error-search p {
+        font-size: 1rem;
+    }
+}
